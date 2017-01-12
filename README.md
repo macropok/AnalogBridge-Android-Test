@@ -2,7 +2,7 @@
 
 This is a demo version for showing AnalogBridge-Android.
 
-AnalogBridge-Android is a library which contains flow for web service in https://analogbridge.io
+AnalogBridge-Android is a library which contains flow for web service in https://analogbridge.io/demo
 
 For use this library
 
