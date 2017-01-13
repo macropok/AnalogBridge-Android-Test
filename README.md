@@ -24,13 +24,9 @@ allprojects {
 Also in your build.gradle in your app module
 
 ```
-compile 'com.android.support:design:25.0.1'
-compile 'com.mikepenz:actionitembadge:3.3.1@aar'
-compile 'com.mikepenz:iconics-core:2.8.1@aar'
-compile 'com.loopj.android:android-async-http:1.4.9'
-compile 'com.stripe:stripe-android:2.0.2'
-compile 'com.squareup.picasso:picasso:2.5.2'
-compile 'com.marcopok.analogbridge:analogbridgecomponent:0.0.5@aar'
+compile ('com.marcopok.analogbridge:analogbridgecomponent:0.0.5@aar') {
+    transitive = true;
+}
 ```
 
 In your project, you can use AnalogBridge-Android library
