@@ -24,7 +24,7 @@ allprojects {
 Also in your build.gradle in your app module
 
 ```
-compile ('com.marcopok.analogbridge:analogbridgecomponent:0.0.5@aar') {
+compile ('com.marcopok.analogbridge:analogbridgecomponent:0.0.8@aar') {
     transitive = true;
 }
 ```
