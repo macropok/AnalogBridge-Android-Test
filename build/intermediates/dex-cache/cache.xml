@@ -57,15 +57,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/psihpok/AnalogBridge-Android-Test/app/build/intermediates/exploded-aar/com.marcopok.analogbridge/analogbridgecomponent/0.0.8/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.1"
-        sha1="7190bb28a435aeac330cfff82a20575bbbe55583">
-        <dex dex="/Users/psihpok/AnalogBridge-Android-Test/app/build/intermediates/pre-dexed/debug/com.marcopok.analogbridge-analogbridgecomponent-0.0.8_0e0bb828e7ff7e0fac4043b4a10cf9ad90de1b58.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/psihpok/AnalogBridge-Android-Test/app/build/intermediates/exploded-aar/com.stripe/stripe-android/2.0.2/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -99,6 +90,15 @@
         revision="25.0.1"
         sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
         <dex dex="/Users/psihpok/AnalogBridge-Android-Test/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_60baa18aeb60cd29ce498b9163d1dca7e37ba7aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/psihpok/AnalogBridge-Android-Test/app/build/intermediates/exploded-aar/com.marcorampok.analogbridge/analogbridgecomponent/0.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="406892e01dffa1c5c51313d096c2fa7928a9189c">
+        <dex dex="/Users/psihpok/AnalogBridge-Android-Test/app/build/intermediates/pre-dexed/debug/com.marcorampok.analogbridge-analogbridgecomponent-0.0.2_09ddf10da1148ca046db180a67ecc0865c55d0cb.jar" />
     </item>
     <item
         is-multidex="false"

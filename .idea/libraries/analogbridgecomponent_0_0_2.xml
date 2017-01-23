@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="analogbridgecomponent-0.0.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.marcorampok.analogbridge/analogbridgecomponent/0.0.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.marcorampok.analogbridge/analogbridgecomponent/0.0.2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.marcorampok.analogbridge/analogbridgecomponent/0.0.2/3a533d16bb6d3d1d57e112116a80b925d253f40b/analogbridgecomponent-0.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
