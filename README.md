@@ -24,9 +24,7 @@ allprojects {
 Also in your build.gradle in your app module
 
 ```
-compile ('com.marcopok.analogbridge:analogbridgecomponent:0.0.5@aar') {
-    transitive = true;
-}
+compile 'com.marcorampok.analogbridge:analogbridgecomponent:0.0.1'
 ```
 
 In your project, you can use AnalogBridge-Android library
